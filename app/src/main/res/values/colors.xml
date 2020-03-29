@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#080817</color>
+    <color name="colorPrimaryDark">#080817</color>
+    <color name="colorAccent">#E6E6E6</color>
+    <color name="textColor">#FFFFEF</color>
+    <color name="hintColor">#66FFFFEF</color>
+    <color name="addButtonColor">#3F0CB4</color>
+    <color name="cardViewBG">#16141D</color>
+    <color name="listItemSelected">#4DFFFFEF</color>
+</resources>

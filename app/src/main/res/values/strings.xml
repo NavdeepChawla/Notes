@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="listRow">Title</string>
+    <string name="homeTextView">Please add a Note</string>
+    <string name="noteTitle">Title</string>
+    <string name="noteDesc">Please enter your note.</string>
+    <string name="backButtonDesc">Back Button</string>
+    <string name="deleteButtonDesc">Delete Button</string>
+</resources>
